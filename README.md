@@ -27,7 +27,7 @@ This is a modern responsive web application built using React JS
 
 ## How To Use
 
-The website is published [here]()
+The website is published [here](https://pras306.github.io/gpt3-modern/)
 
 Clone the project 
 
